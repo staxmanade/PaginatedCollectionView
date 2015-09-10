@@ -1,5 +1,7 @@
 # Sample UICollectionView that supports Infinite-Scroll/Pagination
 
+> By: [@staxmanade](http://staxmanade.com)
+
 Sample/Prototype that demonstrates how you can create an infinite-scroll experience when dealing with (fake) paginated data.
 
 # Inspiration from:
